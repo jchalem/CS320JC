@@ -1,3 +1,5 @@
+# My file is main.py
+
 # P7: Selling Laptops: Smart Marketing
 
 ## Corrections/Clarifications
