@@ -1,4 +1,4 @@
-# The file I worked on is p2.ipynb
+## The file I worked on is p2.ipynb
 
 # Project 2: Loan Analysis
 
