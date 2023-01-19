@@ -1,4 +1,4 @@
-## The file I worked on is p2.ipynb
+This project involved analyzing loans. The first part of the project involved building the loan and applicant classes so that each loan and applicant had objects to analyze. A bank class was also added to assess the banks and their loans. The search.py file was also made. The second part involved building a BST for a bank. The third part involved analyzing a specific bank. THe fourth part involved analyzing a different bank and exploring trees. The files I worked with are p2.ipynb, loans.py, and search.py.
 
 # Project 2: Loan Analysis
 
