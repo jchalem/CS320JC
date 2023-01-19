@@ -1,4 +1,4 @@
-## The file I worked on is p1.ipynb
+In this project, I used control flow functions, and analyzed geographic housing data and git commands. See p1.ipynb for my answers.
 
 # Project 1: Review, Git Analysis, Benchmarking
 
